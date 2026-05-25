@@ -115,18 +115,18 @@ You can reach me via email at 1632241215@qq.com.
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/html.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/cssgif.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/vscode.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/react.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/vue.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/python.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/js.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/github.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" /><br>
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/html.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/cssgif.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/vscode.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/react.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/vue.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/python.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/js.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" />
+<img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/github.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/blob/main/profile-3d-contrib/profile-gitblock.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sx13694658890/galaxy/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sx13694658890/galaxy/blob/main/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://github.com/sx13694658890/galaxy/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 </div>
