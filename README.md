@@ -12,9 +12,9 @@ You can reach me via email at 1632241215@qq.com.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Welcome%20to%20my%20GitHub%20profile%20page;欢迎来到我的%20GitHub%20主页&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/top_img.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/top_img.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sx13694658890/galaxy/blob/main/assets/images/top_img.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sx13694658890/galaxy/blob/main/assets/images/developer.svg" height="225px" />
+  <img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/top_img.gif" />
 </picture>
 <div>
   <a href="https://github.com/sx13694658890"><img src="" alt="GitHub" title="GitHub" /></a>&emsp;
@@ -26,9 +26,9 @@ You can reach me via email at 1632241215@qq.com.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sx13694658890/galaxy/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sx13694658890/galaxy/blob/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sx13694658890/galaxy/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ## 🚀 GitHub Overview
@@ -53,11 +53,11 @@ You can reach me via email at 1632241215@qq.com.
 <div align="center">
 <div>
   <picture>
-    <img src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/man_run.png" width="250" height="250" />
+    <img src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/man_run.png" width="250" height="250" />
   </picture>
 </div>
-<img align="left" width="150" src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/left.png" />
-<img align="right" width="150" src="https://cdn.jsdmirror.com/gh/sx13694658890/sx13694658890/assets/images/right.png" />
+<img align="left" width="150" src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/left.png" />
+<img align="right" width="150" src="https://github.com/sx13694658890/galaxy/blob/main/assets/images/right.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=sx13694658890&theme=radical" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=sx13694658890" />
